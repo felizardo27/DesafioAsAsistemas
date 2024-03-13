@@ -1,0 +1,63 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 15px 0;
+  background-color: #5356FF;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 3px 3px 8px 0px #111235;
+}
+
+.container p {
+  font-family: "Roboto", sans-serif;
+  color: #07192c;
+}
+
+.name {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 5px 0;
+}
+
+.image {
+  width: 200px;
+}
+
+.price {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  margin: 15px 0;
+}
+
+.description {
+  border-top: 2px solid #DFF5FF;
+  border-radius: 10px;
+  padding: 10px 0;
+  font-size: 16px;
+  line-height: 25px;
+  text-align: center;
+  color: #DFF5FF;
+}
+
+@media screen and  (min-width: 768px) {
+  .container {
+    margin: 15px;
+    max-width: 200px;
+    height: 400px;
+    padding: 40px;
+  }
+
+  .image {
+    width: 150px;
+    height: 150px;
+  }
+
+  .description {
+    font-size: 16px;
+    line-height: 18px;
+  }
+  
+}

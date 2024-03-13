@@ -1,0 +1,45 @@
+.container {
+  background-color: #5356FF;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 10px 0;
+}
+
+.logo {
+  justify-self: center;
+  align-self: center;
+  width: 150px;
+}
+
+.container_input {
+  display: flex;
+  justify-self: center;
+  align-items: center;
+  margin: 10px auto;
+  border: 2px solid #DFF5FF;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.container_input input {
+  background-color: transparent;
+  width: 250px;
+  border: none;
+  outline: none;
+  color: #DFF5FF;
+  text-align: center;
+}
+
+.container_input input::placeholder {
+  color: #DFF5FF;
+  font-weight: bold;
+}
+
+
+.container_filter {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 250px;
+}

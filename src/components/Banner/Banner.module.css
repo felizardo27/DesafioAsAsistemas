@@ -13,9 +13,6 @@
 }
 
 .container_input {
-  display: flex;
-  justify-self: center;
-  align-items: center;
   margin: 10px auto;
   border: 2px solid #DFF5FF;
   padding: 10px;
@@ -23,6 +20,7 @@
 }
 
 .container_input input {
+  font-family: "Roboto", sans-serif;
   background-color: transparent;
   width: 250px;
   border: none;
@@ -32,14 +30,27 @@
 }
 
 .container_input input::placeholder {
+  font-family: "Roboto", sans-serif;
   color: #DFF5FF;
   font-weight: bold;
 }
 
-
 .container_filter {
+  font-family: "Roboto", sans-serif;
+  color: #DFF5FF;
   display: flex;
   flex-direction: row;
   justify-content: center;
-  width: 250px;
+  margin: 10px auto;
+  width: 80%;
+  gap: 30px;
+}
+
+.container_filter a {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.container_filter a:hover {
+  text-decoration: underline;
 }

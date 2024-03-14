@@ -1,0 +1,90 @@
+[
+   {
+      "id": 1,
+      "name": "IPhone 15",
+      "description": "A excelência deste Apple iPhone 15 é completada por uma câmera de 48 megapixels que permite tirar fotos fantásticas com uma resolução de 8000x6000 pixels e gravar vídeos em 4K a espantosa resolução de 3840x2160 pixels.",
+      "price": 5999.00,
+      "image": "images/image-1.png",
+      "category": "smartphones"
+   },
+   {
+      "id": 2,
+      "name": "Galaxy S24 Ultra",
+      "description": "A excelência deste Samsung Galaxy S24 Ultra é completada por uma câmera de 200 megapixels que permite tirar fotos fantásticas com uma resolução de 16330x12247 pixels e gravar vídeos em 8K a espantosa resolução de 7680x4320 pixels.",
+      "price": 7499.00,
+      "image": "images/image-2.png",
+      "category": "smartphones"
+   },
+   {
+      "id": 3,
+      "name": "Galaxy Z Flip5",
+      "description": "As funcionalidades oferecidas pelo Samsung Galaxy Z Flip 5 são muitas e inovadoras. Começando pelo 5G que permite a transferência de dados e excelente navegação na internet.",
+      "price": 3599.00,
+      "image": "images/image-3.png",
+      "category": "smartphones"
+   },
+   {
+      "id": 4,
+      "name": "IPhone 15 Pro Max",
+      "description": "A excelência deste Apple iPhone 15 Pro Max é completada por uma câmera de 48 megapixels que permite tirar fotos fantásticas com uma resolução de 8000x6000 pixels e gravar vídeos em 4K a espantosa resolução de 3840x2160 pixels.",
+      "price": 8499.00,
+      "image": "images/image-4.png",
+      "category": "smartphones"
+   },
+   {
+      "id": 5,
+      "name": "Macbook Air M2",
+      "description": "O MacBook Air de 2022 chega com grandes novidades, entre elas a presença de um novo processador e também um design atualizado. A linha estreia o chipset M2, desenvolvido pela Apple, que promete ser mais potente e eficiente do que seu antecessor (o Apple M1).",
+      "price": 8499.00,
+      "image": "images/image-5.png",
+      "category": "notebooks"
+   },
+   {
+      "id": 6,
+      "name": "Lenovo IdeaPad Gaming 3i",
+      "description": "Notebook Gamer Lenovo Gaming 3i Novo design com 10 Geração de Processadores Intel Core i5-10300H e placa de vídeo NVIDIA GeForce GTX 1650 4GB, ideal para gamers e usuários que também precisam de alta performance.",
+      "price": 4999.00,
+      "image": "images/image-6.png",
+      "category": "notebooks"
+   },
+   {
+      "id": 7,
+      "name": "Dell XPS 13 Plus",
+      "description": "Dell XPS 13 é um notebook premium da Dell. Com tela de 13,3 polegadas e resoluções até 4K, o computador promete tela 'infinita' com bordas finas e display que ocupa mais de 90% da proporção tela-corpo.z",
+      "price": 12399.00,
+      "image": "images/image-7.png",
+      "category": "notebooks"
+   },
+   {
+      "id": 8,
+      "name": "PlayStation 5",
+      "description": "O PlayStation 5 (PS5) faz parte da nova geração de consoles da Sony, lançado no final de 2020 com design renovado. Por dentro, ele tem processador de 8 núcleos, placa gráfica AMD Radeon RDNA 2, 16 GB de RAM GDDR6, 825 GB de memória SSD e suporte a jogos em até 8K, com 4K a 120 Hz.",
+      "price": 3799.00,
+      "image": "images/image-8.png",
+      "category": "consoles"
+   },
+   {
+      "id": 9,
+      "name": "Xbox Series X",
+      "description": "Xbox Series X promete um dos melhores desempenhos já vistos no mundo dos consoles, sendo capaz de rodar jogos com resolução 4K a até 120 frames por segundo, graças a uma GPU da AMD de 12 Teraflops. Toda essa qualidade de gráficos, com direito ao Ray Tracing.",
+      "price": 3799.00,
+      "image": "images/image-9.png",
+      "category": "consoles"
+   },
+   {
+      "id": 10,
+      "name": "Xbox Series S",
+      "description": "O Xbox Series S foi projetado para rodar jogos sem disco a 1440p (com a capacidade de aprimoramento para 4K), e você pode escolher entre SSD de 512 GB ou SSD de 1 TB.",
+      "price": 2225.00,
+      "image": "images/image-10.png",
+      "category": "consoles"
+   },
+   {
+      "id": 11,
+      "name": "Nintendo Switch Oled",
+      "description": "O novo console apresenta uma tela OLED vibrante de 7 polegadas (17,78 cm), um amplo suporte ajustável, uma base com uma porta LAN integrada, 64 GB de espaço de armazenamento interno e um áudio aprimorado.",
+      "price": 2140.00,
+      "image": "images/image-11.png",
+      "category": "consoles"
+   }
+]
